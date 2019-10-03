@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ArrayIndex {
 	
 	public int i;
+	public int a;
 
 	public int indexReturn(String input) {
 
